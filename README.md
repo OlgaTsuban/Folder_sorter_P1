@@ -1,2 +1,2 @@
-# GoIT_homework6
+# Folder sorter
 Here is the first part of the project "Sorter"
