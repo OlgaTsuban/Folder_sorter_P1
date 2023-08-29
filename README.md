@@ -1,5 +1,7 @@
 # Folder sorter
 <p>Here is the first part of the project "Sorter"</p>
+<h2>Why we have 2 files? </h2>
+<p>File main_2.py has better code style(I recommend you to use it), but main.py is working too</p>
 <h1>What this project can do ?</h1>
 <p>Many people have a folder on their desktop named something like "Sort". Typically, this folder remains unsorted indefinitely.I wrote a script that will sort this folder</p>
 <p>This program can sort such extension</p>
